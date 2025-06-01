@@ -8,9 +8,9 @@
 
   vars:
     sites:
-    - "fizfak.com"
-    - "mehmat.com"
-    - "biofak.com"
+      - "fizfak.com"
+      - "mehmat.com"
+      - "biofak.com"
 
   roles:
-  - nginx_vhosts
+    - nginx_vhosts
